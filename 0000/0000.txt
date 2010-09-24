@@ -4,105 +4,105 @@ Weiß
 Junge
 Mädchen
 Schlacht
-Trade  -- not done
+Tauschen  -- not done
 Stadt
-Country
-Smart
-Athletic
-Time
-Money
-Looks
-Personality
+Land
+Klug
+Athletisch
+Zeit
+Geld
+Aussehen
+Persönlichkeit
 Cool
-Cute
-Funny
+Niedlich
+Witzig
 Pokabu
 Mijumaru
 Shita-ja
-Sea
-River
-Mountain
-Class
-Break
-School lunch
-Family
-Friends
-Self
-Spring
-Summer
-Fall
+See
+Fluss
+Berg
+Klasse
+Pause
+Schulspeißung
+Familie
+Freunde
+Selbst
+Frühling
+Sommer
+Herbst
 Winter
-Sweet
-Spicy
-Sour
+Süß
+Scharf
+Sauer
 Bitter
-Interesting
+Interesant
 Cool
-Nice
-Rich
-Battle
-Collect
-Story
+Nett
+Reich
+Kampf
+Kollekte
+Geschichte
 Pokémon
-First Language
-Math
-Science
-Social Studies
-First Language
-Math
-Science
-Social Studies
+Muttersprache
+Mathe
+Wissenschaft
+Sozialkunde
+Muttersprache
+Matthe
+Wissenschaft
+Sozialkunde
 Trainer
 Pokémon Professor
 Team Plasma
 Pokémon
-Play Outside
+Draußen Spielen
 Shop
-Read
-Game
-Sleep
+Lesen
+Spiel
+Schlaf
 Pop
 Rock
 Jazz
 Rap
-Classic
+Klassik
 News
 Drama
 Comedy
-Sports
+Sport
 Anime
 Action
 SF
-Love
-Suspense
+Liebe
+Spannung
 Comedy
 Horror
 Baseball
-Soccer
+Fußball
 Basketball
 Football
 Hockey
 Martial Arts
-Red
-Green
-Blue
-Yellow
-White
-Black
+Rot
+Grün
+Blau
+Gelb
+Weiß
+Schwarz
 Fitness
-Reading
-Music
-Movies
-Travel
-Cooking
-Fishing
-Games
+Lesen
+Musik
+Filme
+Reisen
+Kochen
+Fischen
+Spiele
 Student
-Office Worker
-Creator
-Self-employed
-Govt. Official
-Housewife
+Büroangestellter
+Urheber
+Selbstständiger
+Regierungsbeamter
+Hausfrau
 Artist
 Job-Hopper
 Podda
@@ -117,30 +117,30 @@ Hachiku
 Iris
 Shaga
 Normal
-Fire
-Water
-Electricity
-Grass
-Ice
-Fighting
-Poison
-Ground
-Flying
-Psychic
-Bug
-Rock
-Ghost
-Dragon
-Dark
-Steel
-0 - 10 hours
-10 - 20 hours
-20 - 30 hours
-30 - 40 hours
-40 - 50 hours
-50 - 60 hours
-60 - 70 hours
-70 - 80 hours
-80 - 90 hours
-90 - 100 hours
-100  hours
+Feuer
+Wasser
+Elektro
+Pflanze
+Eis
+Kampf
+Gift
+Boden
+Flug
+Psycho
+Käfer
+Stein
+Geist
+Drache
+Unlicht
+Stahl
+0 - 10 Stunden
+10 - 20 Stunden
+20 - 30 Stunden
+30 - 40 Stunden
+40 - 50 Stunden
+50 - 60 Stunden
+60 - 70 Stunden
+70 - 80 Stunden
+80 - 90 Stunden
+90 - 100 Stunden
+100 Stunden
